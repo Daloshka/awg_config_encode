@@ -1,1 +1,4 @@
-# awg_config_encode
+#### Конвертация конфига в ссылку для AmneziaVPN
+
+1. Заполните конфиг client.conf
+2. Запустите main.py
