@@ -1,0 +1,26 @@
+{
+  "client_private_key": "GAFaeiNohiarimz/6o6ETBBINrxrTzF4JdEjAeZzDlE=",
+  "addresses": [
+    "10.8.0.2/32"
+  ],
+  "dns": [
+    "1.1.1.1",
+    "1.0.0.1"
+  ],
+  "server_public_key": "uxifG1I1/FToXo1P8Cp0YXZuE2caE5rt0usfaibS7VM=",
+  "endpoint": "212.84.114.92:51820",
+  "set_keep_alive": 25,
+  "preshared_key": "gaNZ8usO4ThARQMEMy+AdUfJnj4gTbMdA9inuOrjuWI=",
+  "allowed_ips": [
+    "0.0.0.0/0"
+  ],
+  "jc": 3,
+  "jmin": 50,
+  "jmax": 1000,
+  "s1": 60,
+  "s2": 118,
+  "h1": 17083834,
+  "h2": 18584752,
+  "h3": 93311071,
+  "h4": 53214086
+}
