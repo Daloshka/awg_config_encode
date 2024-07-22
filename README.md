@@ -1,4 +1,7 @@
 #### Конвертация конфига в ссылку для AmneziaVPN
+```
+pip install -r requirements.txt
+```
 
 1. Заполните конфиг client.conf
 2. Запустите main.py
